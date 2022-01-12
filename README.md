@@ -1,8 +1,7 @@
 [![MasterHead](https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/271837462_1008722803388871_5404507311016933705_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeG7dI1VH9CzKnao8o36tYT2P7sAy-CO0Vk_uwDL4I7RWV-R4dDimiNU31-fkZOSOglg22MO4EU8adwNYa-emHE7&_nc_ohc=8LBU6hqaaqMAX_nIYjZ&_nc_ht=scontent-mad1-1.xx&oh=00_AT8C2LLLWFE1q0M-ekwqPdQwhiMoHvYLXYI8-7DpRp-0_Q&oe=61E43F7A)](https://github.com/lelouis1er)
 
 <h3 align="left">About me:</h3>
-I am your software developer with a solid background in infrastructure (network + Linux system administration). My favorite language is java, I am passionate about coding and video games. I like teamwork and collaboration as well as the ability to work solo.
-
+I am your software developer with a solid experience in infrastructure (network administration + Linux system). My favorite language is Java (JavaSE, JavaEE, Android) but I also code a lot in PHP, C # and JavaScript. I am passionate about coding and video games. I like teamwork and collaboration as well as the ability to work solo.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
