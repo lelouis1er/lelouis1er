@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouis1er&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouis1er&theme=cobalt&layout=compact&langs-count=10)](https://github.com/anuraghazra/github-readme-stats)
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouis1er&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouis1er&theme=cobalt&layout=compact&langs-count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
