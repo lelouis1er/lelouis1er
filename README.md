@@ -7,6 +7,16 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lelouis1er&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/louisst40013738" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="linkedin.com/in/louis-stark-865625153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/louis.stark.7127" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCvMRKbIBXnMEqiHdkvEPGQg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 <!--
 **lelouis1er/lelouis1er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
