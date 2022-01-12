@@ -17,7 +17,8 @@ I am your software developer with a solid background in infrastructure (network 
 
 
 <p>Database</p>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelouis1er&theme=cobalt&layout=compact&langs-count=10)](https://github.com/anuraghazra/github-readme-stats)
