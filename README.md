@@ -9,6 +9,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=lelouis1er&theme=nord&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lelouis1er&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
