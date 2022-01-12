@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelouis1er&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lelouis1er)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lelouis1er&theme=nord&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **lelouis1er/lelouis1er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
